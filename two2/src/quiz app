@@ -1,0 +1,32 @@
+// const question = [
+
+//     {
+//         title : 'Q 1 - Firoshto ke Sardar kon hai?',
+//         Option: ['A - Hazrat Jibrael', 'B - Hazrat Meekail',
+//                  'C - Hazrat Israfeil', 'D -Hazrat Izrail'],
+//         correctAnswer: 'C - Hazrat Jibraei'
+//     },
+    
+    
+//     {
+//         title : 'Q 2 - Namaz kitni farz hai?',
+//         Option: ['A - 50', 'B - 4',
+//                  'C - 3', 'D -5'],
+//         correctAnswer: 'D - 5' 
+//     },
+    
+    // {
+    //     title : 'Q 3 - Quran me kitne Paare hai?',
+    //     Option: ['A - 30', 'B - 20',
+    //              'C - 10', 'D - 5'],
+    //     correctAnswer: 'A - 30'
+    // },
+    
+    // {
+    //     title : 'Q 4 - Quran me kitni Surtan hai?',
+    //     Option: ['A - 100', 'B - 120',
+    //              'C - 114', 'D - 90'],
+    
+    //      correctAnswer: 'C - 114'
+    // }
+    // ]
